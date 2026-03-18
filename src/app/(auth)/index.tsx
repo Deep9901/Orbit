@@ -31,7 +31,7 @@ const AuthScreen = () => {
             </View>
 
             <Text className="text-3xl font-extrabold text-foreground tracking-tight mt-4 font-mono">
-              StudyBuddy
+              Orbit
             </Text>
 
             <Text className="text-foreground-muted text-[15px] mt-1.5 tracking-wide">

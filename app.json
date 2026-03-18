@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "study-buddy",
-    "slug": "study-buddy",
+    "name": "Orbit",
+    "slug": "orbit",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "studybuddy",
+    "scheme": "orbit",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon",
-      "bundleIdentifier": "com.burakorkmez.study-buddy",
+      "bundleIdentifier": "com.subham.orbit",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -73,7 +73,7 @@
         "@sentry/react-native/expo",
         {
           "url": "https://sentry.io/",
-          "project": "study-app",
+          "project": "orbit-app",
           "organization": "codesistency-gs"
         }
       ],
